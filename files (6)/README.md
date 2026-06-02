@@ -2,7 +2,7 @@
 
 A browser-based analytical-procedures engine that screens an **entire general ledger population** (not a sample) for the fraud and error patterns that audit data-analytics teams test for. Built to run fully client-side — uploaded data never leaves the browser, there is no server, and there are no API costs.
 
-**Live demo:** _[add your Netlify URL here]_
+**Live demo:** (https://ledgerlens-bodik.netlify.app/)
 
 ---
 
